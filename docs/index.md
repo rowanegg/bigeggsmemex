@@ -115,6 +115,8 @@ Want to see how everything connects? Check this visual:
 - [2023-03-15](2023-03-15.md)
 - [2023-03-20](2023-03-20.md)
 - [2023-03-27](2023-03-27.md)
+- [2023-03-29](2023-03-29.md)
+
 
 [OIP (15)](OIP%20(15).jpg)
 
