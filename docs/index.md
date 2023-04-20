@@ -5,6 +5,9 @@ Welcome traveller! Feel free to peruse this curation of notes surrounding the hi
 
 ## Theory is cool because if I don't write this down Dr. Graham will get mad
 
+[0_Final_Journey_1](0_Final_Journey_1.md)
+
+
 Want to see how everything connects? Check this visual:
 
 [Screenshot 2023-04-10 142551](Screenshot%202023-04-10%20142551.png)
