@@ -3,9 +3,13 @@
 
 Welcome traveller! Feel free to peruse this curation of notes surrounding the history of computing, as well as how a culture can interact with technological developments. Everything can be interlinked in some way or another as we navigate the varying perspectives of time, and question who is being left out of the story. 
 
-## Theory is cool because if I don't write this down Dr. Graham will get mad
+### Theory is cool because if I don't write this down Dr. Graham will get mad
 
-[0_Final_Journey_1](0_Final_Journey_1.md)
+# Final Journey
+
+- [0_Final_Journey_1](0_Final_Journey_1.md)
+- [0_Final_Journey_2](0_Final_Journey_2.md)
+
 
 
 Want to see how everything connects? Check this visual:
